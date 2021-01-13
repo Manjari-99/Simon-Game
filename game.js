@@ -85,7 +85,7 @@ function checkAnswer(currentLevel){
     }
   }
   else{
-    var wrong = new Audio('sounds/wrong.mp3');
+    var wrong = new Audio('wrong.mp3');
     wrong.play();
     $('body').addClass('game-over');
     setTimeout(function(){
