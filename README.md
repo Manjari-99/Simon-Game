@@ -12,7 +12,7 @@ This is a single player Simon Game which is a basically a memory game. It is bas
 * Simon will keep adding new signals. Continue playing as long as you can repeat each sequence of signals correctly. After the 5th, 9th and 13th signals in a sequence, Simon automatically speeds up.
 * If you fail to repeat a sequence exactly Simon responds with a sound. This means you've lost, and the sequence of signals ends.
 
-## Try It - > [SIMON GAME](https://manjari-99.github.io/Simon-Game/)
+
 
 ## Methodology 
 
